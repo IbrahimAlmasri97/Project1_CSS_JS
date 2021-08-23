@@ -1,0 +1,19 @@
+.list-group-item  {
+    background-color: rgb(248, 252, 0);
+}
+.list-group-item.active{
+    background-color: rgb(128, 139, 240);
+}
+.list-group-item.active:hover{
+    background-color: rgb(141, 240, 128);
+}
+.list-group-item:hover  {
+    background-color: rgba(255, 138, 36, 0.89);
+}
+
+.list-group-item-action:focus{
+    background-color: rgba(235, 17, 17, 0.651);
+}
+.bg-light {
+    background-color: #fcd041d2 !important;
+}
