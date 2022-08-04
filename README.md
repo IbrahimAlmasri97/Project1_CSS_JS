@@ -1,2 +1,1 @@
-# pro2
-pro2coffee
+Design a website for a coffee shop using Html, CSS and JS
